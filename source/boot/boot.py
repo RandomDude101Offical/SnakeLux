@@ -8,7 +8,7 @@ def begdata():
 def begbss():
   text()
 
-SYSSIZE = 0x0900 # idk what's syssize value is so we'll stick with this
+SYSSIZE = 0x9999 # idk what's syssize value is so we'll stick with this
 
 BOOTSEG = 0x07c0
 INITSEG = 0x9000
